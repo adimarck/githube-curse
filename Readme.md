@@ -1,17 +1,7 @@
 # Git Course
 
-Este é um repositorio teste para ensinar como funcionar
 
-Saiba mais no link: 
-acesse o site 
-Curso completo
-e com muito 
-aprendizado
+    #Curso sobre o Git e GitHub e suas configurações iniciais.
+    Sendo vendo diversos teste para por em prática o que foi 
+    ensinado.
 
-não perca essa oprotunidade
-
-
-
-
-
-                https://github.com/
